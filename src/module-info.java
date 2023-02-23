@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mad
+ *
+ */
+module course {
+}
